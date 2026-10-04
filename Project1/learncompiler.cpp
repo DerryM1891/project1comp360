@@ -1,3 +1,7 @@
+// Derry Moss III
+// COMP360 Project 1
+// 10/2/2026
+
 #include <cctype>
 #include <fstream>
 #include <iomanip>
@@ -11,7 +15,6 @@ using namespace std;
 //  g++ -std=c++17 -o learncompiler learncompiler.cpp
 // ./learncompiler sample1.txt
 // ./learncompiler sample2.txt
-
 
 
 // Grammar as written has no ';' after <assign>, but Sample 1 has one.
